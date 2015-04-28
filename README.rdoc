@@ -10,6 +10,6 @@ In the future, the source in this repository may be modified.  Or, the repositor
 
 This product/project is licensed under "The MIT License (MIT)", see the LICENSE file in the repository.
 
-2015 Copyright CK Thomaston
-
 If you have questions, you may contact Rex Addiscentis, raddiscentis@addiscent.com
+
+2015 Copyright CK Thomaston
