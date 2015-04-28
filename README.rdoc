@@ -1,28 +1,13 @@
-== README
+== place-setting : A Semi-Static Rails Web Site
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple "one-page" web site "outline", built using Dustin Shaerer's Tutorial, "Build and Deploy Semi Static Sites with Ruby on Rails 4, Bootstrap, and Heroku", http://dustinschaererconsulting.com/blog/.
 
-Things you may want to cover:
+This repository is a by-product of the tutorial.  The files committed to this repository while doing the tutorial have not been modified herein, yet.
 
-* Ruby version
+In the future, the source in this repository may be modified, or the repository may be deleted.  However, in the mean-time you are free to reference it or use it as desired.
 
-* System dependencies
+This product is licensed under "The MIT License (MIT)", see the LICENSE file in the repository.
 
-* Configuration
+2015 Copyright CK Thomaston
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+If you have questions, you may contact Rex Addiscentis, raddiscentis@addiscent.com
