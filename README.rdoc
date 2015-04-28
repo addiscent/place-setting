@@ -1,12 +1,14 @@
-== place-setting : A Semi-Static Rails Web Site
+== place-setting : A Semi-Static Rails-based Web Site
 
-This is a simple "one-page" web site "outline", built using Dustin Shaerer's Tutorial, "Build and Deploy Semi Static Sites with Ruby on Rails 4, Bootstrap, and Heroku", http://dustinschaererconsulting.com/blog/.
+This is a simple "one-page" web site, built using Dustin Shaerer's Tutorial, "Build and Deploy Semi Static Sites with Ruby on Rails 4, Bootstrap, and Heroku", http://dustinschaererconsulting.com/blog/.
 
-This repository is a by-product of the tutorial.  The files committed to this repository while doing the tutorial have not been modified herein, yet.
+This repository is a by-product of the tutorial.  The files committed to this repository, as built while doing the tutorial, have not been modified herein, yet.  The web site produced by this repository can be viewed on Heroku, at :
 
-In the future, the source in this repository may be modified, or the repository may be deleted.  However, in the mean-time you are free to reference it or use it as desired.
+    https://sleepy-mountain-5384.herokuapp.com/
 
-This product is licensed under "The MIT License (MIT)", see the LICENSE file in the repository.
+In the future, the source in this repository may be modified.  Or, the repository may be deleted without warning at any time.  However, in the mean-time you are free to reference it or use it as desired.
+
+This product/project is licensed under "The MIT License (MIT)", see the LICENSE file in the repository.
 
 2015 Copyright CK Thomaston
 
