@@ -2,7 +2,7 @@
 
 This is a simple "one-page" web site, built using Dustin Shaerer's Tutorial, "Build and Deploy Semi Static Sites with Ruby on Rails 4, Bootstrap, and Heroku", http://dustinschaererconsulting.com/blog/.
 
-This repository is a by-product of the tutorial.  The files committed to this repository, as built while doing the tutorial, have not been modified herein, yet.  The web site produced by this repository can be viewed on Heroku, at :
+This repository is a product of the tutorial.  The files committed to this repository, as built while doing the tutorial, have not been modified herein, yet.  The web site produced by this repository can be viewed on Heroku, at :
 
     https://sleepy-mountain-5384.herokuapp.com/
 
