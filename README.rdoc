@@ -12,4 +12,5 @@ This product/project is licensed under "The MIT License (MIT)", see the LICENSE 
 
 If you have questions, you may contact Rex Addiscentis, raddiscentis@addiscent.com
 
-2015 Copyright CK Thomaston
+2016 Copyright Rex Addiscentis
+
