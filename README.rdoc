@@ -1,4 +1,8 @@
 == place-setting : A Semi-Static Rails-based Web Site
+NOTE: GitHub has alerted a security vulnerability in this project:
+Security advisory GHSA-7553-jr98-vx47 (moderate severity).
+This is due to vulnerability found in the old version of "nokogiri" used in this project.
+If you download/build/use this project, be sure to revise "Gemfile.lock" to use an updated version of nokogiri which does not have this security vulnerability.
 
 This is a simple "one-page" web site, built using Dustin Shaerer's Tutorial, "Build and Deploy Semi Static Sites with Ruby on Rails 4, Bootstrap, and Heroku", http://dustinschaererconsulting.com/blog/.
 
